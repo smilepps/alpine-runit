@@ -1,4 +1,4 @@
-FROM dockage/alpine:latest
+FROM smileps/alpine:latest
 MAINTAINER Mohammad Abdoli Rad <m.abdolirad@gmail.com>
 
 LABEL org.label-schema.name="alpine-runit" \
